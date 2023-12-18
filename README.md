@@ -1,4 +1,5 @@
 This is the serkan.code personel web site. It has blog, about and content pages.
+Now Main branch protected
 
 ## Getting Started
 
