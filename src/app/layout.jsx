@@ -11,6 +11,9 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${manrope.className} antialiased bg-light dark:bg-dark`}>
         {children}
+        <footer>
+          {/* Footer Added */}
+        </footer>
       </body>
     </html>
   )
